@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://lucasrmagalhaes.github.io/dio/" rel="nofollow">
+  <a href="https://palomamourap.github.io/dio/" rel="nofollow">
     <img src="https://github.com/palomamourap/dio/raw/master/img/capa.png" alt="Interface Instagram" style="max-width:100%;">
   </a>
   <br>
